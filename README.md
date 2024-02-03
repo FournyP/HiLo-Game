@@ -50,4 +50,5 @@ Now, it's the turn of your second terminal ! You must switch to your second term
 ![image](https://github.com/FournyP/HiLo-Game/assets/64586968/8b12d601-6902-4300-88fc-684f52f8706c)
 
 PS : You can run multiple game in the same time ! Just rerun the client at least 2 time to create a new game
+
 PS 2 : Once the game finished, you need to escape de Client using `CTRL + C`
